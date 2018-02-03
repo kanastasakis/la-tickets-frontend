@@ -1,0 +1,28 @@
+.App {}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.svg-centered{
+	display: block;
+	margin: auto;
+}
+
+.spinner-centered{
+	display: block;
+	margin: auto;
+}
+
+.agency-chart text{ 
+  fill:black; 
+  font: 10px sans-serif;
+  text-anchor: start
+}
